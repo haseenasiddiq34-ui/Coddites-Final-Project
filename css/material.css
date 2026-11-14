@@ -26,9 +26,9 @@ body{
 }
 
 .material h1 {
-    width: 55%;
-    padding-left: 69px;
-    margin-top: -88px;
+    width: 124%;
+    padding-left: -21px;
+    margin-top: -209px;
 }
 
 h1 {
@@ -55,7 +55,7 @@ h1 {
 }
 .search-box {
     width: 344px;
-   margin-left: 156px;
+   margin-left: 35px;
     margin-top: 35px;
 }
 
