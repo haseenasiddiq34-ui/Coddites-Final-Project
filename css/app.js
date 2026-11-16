@@ -1,3 +1,4 @@
+$( "#accordion" ).accordion();
 $("#myForm").validate({
 
     rules: {
@@ -47,3 +48,5 @@ $("#myForm").validate({
         form.reset();
     }
 });
+
+// $( "#accordion" ).accordion();

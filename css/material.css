@@ -5,6 +5,110 @@
     font-family: "ABeeZee", "acme", "inter";
 }
 
+body{
+    overflow-x: hidden;
+}.menu {
+    background-image: url(../images/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1550px;
+    height: 1084px;
+    margin-top: -40px;
+}
+
+.main .material {
+    position: absolute;
+    margin-top: -772px;
+    color: white;
+    /* width: 52%; */
+    margin-left: 356px;
+}
+
+.material h1 {
+    width: 124%;
+    padding-left: -21px;
+    margin-top: -209px;
+}
+
+h1 {
+    font-family: "Acme";
+    font-weight: 400;
+    font-size: 80px;
+    opacity: 100%;
+}
+
+.material p {
+    font-family: "ABeeZee";
+    opacity: 80%;
+    width: 42%;
+    text-align: center;
+        margin-left: 53px;
+    line-height: 35px;
+    font-size: 24px;
+    margin-top: -1px;
+}
+.search-box img:hover{
+   width: 42px;
+   height: 42px;
+   cursor: pointer;
+}
+.search-box {
+    width: 344px;
+   margin-left: 35px;
+    margin-top: 35px;
+}
+
+.search-box h5 {
+    border-radius: 42px;
+    border: 1px solid white;
+    background-color: transparent;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-bottom: 15.5px;
+    font-family: "ABeeZee";
+    font-weight: 200;
+    opacity: 80%;
+}
+
+.search-box img {
+    width: 40px;
+    height: 40px;
+    margin-top: -48px;
+    position: absolute;
+    margin-left: 300px;
+}
+
+.color-palat img {
+    width: 112px;
+    height: 137.6px;
+    margin-left: -89px;
+    margin-top: -94px;
+}
+
+.color-1 {
+    margin-left: -336px;
+}
+
+.color-1 img {
+    width: 32px;
+    height: 32px;
+    margin-top: 0px;
+}
+
+.color-2 img {
+    width: 32px;
+    height: 32px;
+    margin-left: 530px;
+    margin-top: 204px;
+}
+
+.color-3 img {
+    width: 32px;
+    height: 32px;
+    margin-left: 1076px;
+}
+
 .material-section {
     display: flex;
     align-items: center;
